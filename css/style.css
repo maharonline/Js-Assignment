@@ -1,0 +1,28 @@
+header{
+    background-color: #1A5c6c !important;
+}
+.navbar{
+    background-color: #1A5c6c !important;
+    
+
+}
+body{
+    min-height: 100vh;
+}
+.d-flex{
+    padding-left: 600px;
+
+}
+
+#clear-btn{
+    background-color: black !important;
+    color: #ffff !important;
+}
+#clear-btn1{
+    background-color: black !important;
+    color: #ffff !important;
+}
+#statement{
+    border-color: rgb(0, 0,0) !important;
+}
+
